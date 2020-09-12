@@ -1,4 +1,4 @@
-package ku.ac.th.atm;
+package th.ac.ku.atm;
 
 /**
  * A bank customer with a checking and a savings account.

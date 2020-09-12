@@ -1,4 +1,4 @@
-package ku.ac.th.atm;
+package th.ac.ku.atm;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
