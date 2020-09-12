@@ -17,7 +17,7 @@ public class DataSourceFile implements DataSource {
     /**
      * @param filename the name of the customer file
      */
-    public DataSourceFile(@Value(“${filename}") String filename) {
+    public DataSourceFile(@Value("${filename}") String filename) {
         this.filename = filename;
     }
 
